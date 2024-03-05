@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tipos de Dados/Criacao e manipulacao de strings/Criacao e manipulacao de strings.iml" filepath="$PROJECT_DIR$/Tipos de Dados/Criacao e manipulacao de strings/Criacao e manipulacao de strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA SE.iml" filepath="$PROJECT_DIR$/.idea/JAVA SE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos de Dados/Tipos de Dados.iml" filepath="$PROJECT_DIR$/Tipos de Dados/Tipos de Dados.iml" />
+    </modules>
+  </component>
+</project>
